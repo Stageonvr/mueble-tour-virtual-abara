@@ -20,24 +20,28 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -2.40772860014968,
-        "pitch": 0.5769725016212668,
-        "fov": 1.3487598040662003
+        "yaw": -2.5889554192538284,
+        "pitch": 0.4384151172536974,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -2.330522088094078,
-          "pitch": 0.9265033984509596,
+          "yaw": -2.197702152199085,
+          "pitch": 0.7704404929209776,
           "rotation": 0,
           "target": "1-recepcin-2"
         },
         {
-          "yaw": 2.892718686719002,
-          "pitch": 0.9705306064021268,
+          "yaw": 2.906821595817612,
+          "pitch": 0.6883298575514694,
           "rotation": 0,
           "target": "3-pasillo-1"
         }
@@ -64,24 +68,28 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.1942915702075645,
-        "pitch": 0.7166255751944028,
-        "fov": 1.3487598040662003
+        "yaw": 0.7365790448700693,
+        "pitch": 0.6317160646109556,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.357573770863997,
-          "pitch": 0.8489634974900859,
+          "yaw": 1.5590192103768272,
+          "pitch": 0.8194204082192531,
           "rotation": 0,
           "target": "0-recepcin-1"
         },
         {
-          "yaw": -1.038037726580793,
-          "pitch": 1.0123446759079826,
+          "yaw": -0.4884165438483805,
+          "pitch": 0.6100969383371897,
           "rotation": 0,
           "target": "2-recepcin-3"
         }
@@ -108,20 +116,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.35846377714038447,
-        "pitch": 0.6125579166769732,
-        "fov": 1.3487598040662003
+        "yaw": 0.6136413251800388,
+        "pitch": 0.3701204825109645,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.447942418470344,
-          "pitch": 0.9242080846020322,
+          "yaw": 1.1936037552093204,
+          "pitch": 0.4987932803507711,
           "rotation": 0,
-          "target": "1-recepcin-2"
+          "target": "0-recepcin-1"
         }
       ],
       "infoHotspots": []
@@ -146,30 +158,28 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -2.611674353448201,
-        "pitch": 0.4683452045936356,
-        "fov": 1.3487598040662003
+        "yaw": -2.424823884064347,
+        "pitch": 0.46379466743494646,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -0.0006217257088874106,
-          "pitch": 0.9662704894693945,
-          "rotation": 0,
-          "target": "0-recepcin-1"
-        },
-        {
-          "yaw": -2.0897650546859765,
-          "pitch": 0.9535796835630315,
+          "yaw": -1.9410223550789585,
+          "pitch": 0.6510332533042931,
           "rotation": 0,
           "target": "4-sala-reuniones-1"
         },
         {
-          "yaw": 2.9185934234197877,
-          "pitch": 0.8742390906765998,
+          "yaw": 2.8389927454541724,
+          "pitch": 0.4483721596596091,
           "rotation": 0,
           "target": "6-pasillo-2"
         }
@@ -196,26 +206,30 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -2.572937928523338,
-        "pitch": 0.6150014741191878,
-        "fov": 1.3487598040662003
+        "yaw": -2.7321889055132154,
+        "pitch": 0.4801464484078011,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.2979951638731855,
-          "pitch": 0.8750234057303352,
-          "rotation": 0,
-          "target": "3-pasillo-1"
-        },
-        {
-          "yaw": -2.4447911194968093,
-          "pitch": 0.6328273618434022,
+          "yaw": -2.478099345663182,
+          "pitch": 0.5967491356236554,
           "rotation": 0,
           "target": "5-sala-reuniones-2"
+        },
+        {
+          "yaw": 1.2535075039297112,
+          "pitch": 0.5750982706726795,
+          "rotation": 0,
+          "target": "3-pasillo-1"
         }
       ],
       "infoHotspots": []
@@ -240,20 +254,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.22177156452775648,
-        "pitch": 0.7042497009851125,
-        "fov": 1.3487598040662003
+        "yaw": -0.8250418782255267,
+        "pitch": 0.5412369846733149,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -1.9789621966349742,
-          "pitch": 0.747456109002405,
+          "yaw": -1.7965314902198362,
+          "pitch": 0.4247700089588804,
           "rotation": 0,
-          "target": "4-sala-reuniones-1"
+          "target": "3-pasillo-1"
         }
       ],
       "infoHotspots": []
@@ -278,74 +296,46 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -2.9099929799088464,
-        "pitch": 0.6106024370037595,
-        "fov": 1.3487598040662003
+        "yaw": -2.8407007095217196,
+        "pitch": 0.5831014184193322,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 0.20978849788073362,
-          "pitch": 0.9632815230731104,
+          "yaw": 2.5555238562216678,
+          "pitch": 0.5096510914278269,
           "rotation": 0,
-          "target": "3-pasillo-1"
+          "target": "7-oficina-a-1"
         },
         {
-          "yaw": -3.083076789278861,
-          "pitch": 0.8696211724358349,
+          "yaw": -2.550604911529941,
+          "pitch": 0.21844116770234123,
           "rotation": 0,
-          "target": "7-pasillo-3"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "7-pasillo-3",
-      "name": "Pasillo 3",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
+          "target": "13-oficina-b-1"
         },
         {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": -2.761141471886143,
-        "pitch": 0.6229159548619236,
-        "fov": 1.3487598040662003
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.1063981797606477,
-          "pitch": 0.5383634986103729,
+          "yaw": 0.1530317855601755,
+          "pitch": 0.38475779150325096,
           "rotation": 0,
-          "target": "8-oficina-a-1"
+          "target": "0-recepcin-1"
         },
         {
-          "yaw": -0.0175951197316202,
-          "pitch": 0.6364544211330898,
+          "yaw": -0.35386836502198094,
+          "pitch": 0.2850157928708885,
           "rotation": 0,
-          "target": "6-pasillo-2"
+          "target": "4-sala-reuniones-1"
         },
         {
-          "yaw": -1.8331913010694283,
-          "pitch": 0.8400601597582309,
+          "yaw": -2.3017020842706124,
+          "pitch": 0.23746209732242818,
           "rotation": 0,
           "target": "12-pasillo-4"
         }
@@ -353,7 +343,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "8-oficina-a-1",
+      "id": "7-oficina-a-1",
       "name": "Oficina A 1",
       "levels": [
         {
@@ -372,38 +362,42 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 2.8285501425589157,
-        "pitch": 0.42123507938146787,
-        "fov": 1.3487598040662003
+        "yaw": 2.8629509899828474,
+        "pitch": 0.7125559666492585,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -0.47836387150855586,
-          "pitch": 0.7650980330435644,
+          "yaw": -2.492544292989704,
+          "pitch": 0.5882031226715654,
           "rotation": 0,
-          "target": "7-pasillo-3"
+          "target": "8-oficina-a-2"
         },
         {
-          "yaw": -2.7561858799899603,
-          "pitch": 0.7727734371930648,
+          "yaw": 2.330854302568146,
+          "pitch": 0.27106511674321965,
           "rotation": 0,
-          "target": "9-oficina-a-2"
+          "target": "10-oficina-a-4"
         },
         {
-          "yaw": 2.2299737109409,
-          "pitch": 0.8323382376427091,
+          "yaw": -0.4594657145201477,
+          "pitch": 0.6165589535157601,
           "rotation": 0,
-          "target": "10-oficina-a-3"
+          "target": "6-pasillo-2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "9-oficina-a-2",
+      "id": "8-oficina-a-2",
       "name": "Oficina A 2",
       "levels": [
         {
@@ -422,32 +416,30 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -0.5411731050720583,
-        "pitch": 0.47639816961576464,
-        "fov": 1.3487598040662003
+        "yaw": 3.135129605750681,
+        "pitch": 0.5719522203150404,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.2534986453839014,
-          "pitch": 0.7645349789005653,
+          "yaw": 2.367421239993707,
+          "pitch": 0.22575054553992402,
           "rotation": 0,
-          "target": "8-oficina-a-1"
-        },
-        {
-          "yaw": 2.032331981714564,
-          "pitch": 0.43702717111948886,
-          "rotation": 0,
-          "target": "10-oficina-a-3"
+          "target": "10-oficina-a-4"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "10-oficina-a-3",
+      "id": "9-oficina-a-3",
       "name": "Oficina A 3",
       "levels": [
         {
@@ -466,38 +458,42 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.48735062811952723,
-        "pitch": 0.52264442407564,
-        "fov": 1.3487598040662003
+        "yaw": 2.316941227043193,
+        "pitch": 0.4680837124878572,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -0.655627018222722,
-          "pitch": 0.7536718207213813,
+          "yaw": 2.717228621165697,
+          "pitch": 0.24240509475699845,
           "rotation": 0,
-          "target": "11-oficina-a-4"
+          "target": "6-pasillo-2"
         },
         {
-          "yaw": 2.514458397137923,
-          "pitch": 0.7399087405597786,
+          "yaw": 1.5072587644516666,
+          "pitch": 0.4370624820234319,
           "rotation": 0,
-          "target": "8-oficina-a-1"
+          "target": "8-oficina-a-2"
         },
         {
-          "yaw": 1.55567818673285,
-          "pitch": 0.6089877593717041,
+          "yaw": -0.4300978574766816,
+          "pitch": 0.5667629351531023,
           "rotation": 0,
-          "target": "9-oficina-a-2"
+          "target": "10-oficina-a-4"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "11-oficina-a-4",
+      "id": "10-oficina-a-4",
       "name": "Oficina A 4",
       "levels": [
         {
@@ -516,20 +512,90 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.5985800143764184,
-        "pitch": 0.2982328128157583,
-        "fov": 1.3487598040662003
+        "yaw": 0.651554732417857,
+        "pitch": 0.4948650441253477,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.7185422425791286,
-          "pitch": 0.79287210903796,
+          "yaw": 1.562884561775114,
+          "pitch": 0.6237959037505476,
           "rotation": 0,
-          "target": "10-oficina-a-3"
+          "target": "9-oficina-a-3"
+        },
+        {
+          "yaw": 0.7490402515925041,
+          "pitch": 0.2826899406593384,
+          "rotation": 0,
+          "target": "8-oficina-a-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "11-pasillo-3",
+      "name": "Pasillo 3",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
+        }
+      ],
+      "faceSize": 3040,
+      "initialViewParameters": {
+        "yaw": 0.6148929210872378,
+        "pitch": 0.4429530471320504,
+        "fov": 1.4134061960355204
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.0654149629539553,
+          "pitch": 0.4040356196479866,
+          "rotation": 0,
+          "target": "7-oficina-a-1"
+        },
+        {
+          "yaw": -1.962540284755109,
+          "pitch": 0.31874377583989144,
+          "rotation": 0,
+          "target": "13-oficina-b-1"
+        },
+        {
+          "yaw": -1.4482490837740567,
+          "pitch": 0.4029776356575834,
+          "rotation": 0,
+          "target": "15-pasillo-5"
+        },
+        {
+          "yaw": 0.06832757156395708,
+          "pitch": 0.29353975588992576,
+          "rotation": 0,
+          "target": "0-recepcin-1"
         }
       ],
       "infoHotspots": []
@@ -554,42 +620,40 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.7095893685039645,
-        "pitch": 0.32595028598267817,
-        "fov": 1.3487598040662003
+        "yaw": 1.0617164754939914,
+        "pitch": 0.539893603453887,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 0.22830627204155363,
-          "pitch": 0.5622419156902847,
+          "yaw": 0.16359086195303618,
+          "pitch": 0.5287361259118022,
           "rotation": 0,
           "target": "13-oficina-b-1"
         },
         {
-          "yaw": -0.31423847210114886,
-          "pitch": 0.4790460400628085,
+          "yaw": -2.3651331742353463,
+          "pitch": 0.3024277830437523,
           "rotation": 0,
-          "target": "14-oficina-b-2"
+          "target": "7-oficina-a-1"
         },
         {
-          "yaw": -2.6086646423409476,
-          "pitch": 0.7043031403333977,
+          "yaw": 2.9207730210352185,
+          "pitch": 0.08043495418400326,
           "rotation": 0,
-          "target": "7-pasillo-3"
+          "target": "0-recepcin-1"
         },
         {
-          "yaw": 3.0090848037621383,
-          "pitch": 0.34167521138393653,
-          "rotation": 0,
-          "target": "6-pasillo-2"
-        },
-        {
-          "yaw": 1.4372692292149436,
-          "pitch": 0.707551036651374,
+          "yaw": 1.1962984067304046,
+          "pitch": 0.3687582930853335,
           "rotation": 0,
           "target": "15-pasillo-5"
         }
@@ -616,24 +680,28 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -0.1610368482438851,
-        "pitch": 0.46041463134297267,
-        "fov": 1.3487598040662003
+        "yaw": -0.4716292598147671,
+        "pitch": 0.5620186662733868,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -0.7470743575356167,
-          "pitch": 0.8593525428057252,
+          "yaw": -0.9885611075346095,
+          "pitch": 0.719772056995982,
           "rotation": 0,
           "target": "14-oficina-b-2"
         },
         {
-          "yaw": -2.7655453680902866,
-          "pitch": 0.5871755475448985,
+          "yaw": -2.812854968686038,
+          "pitch": 0.4545765243493527,
           "rotation": 0,
           "target": "12-pasillo-4"
         }
@@ -660,24 +728,22 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 1.9062961570161585,
-        "pitch": 0.5076492979661218,
-        "fov": 1.3487598040662003
+        "yaw": 1.9407522009021907,
+        "pitch": 0.48167621884096334,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.74127676131255,
-          "pitch": 0.6970156666693228,
-          "rotation": 0,
-          "target": "13-oficina-b-1"
-        },
-        {
-          "yaw": 2.5271260635133803,
-          "pitch": 0.43960808771853976,
+          "yaw": 2.5103556438377836,
+          "pitch": 0.3652121311996517,
           "rotation": 0,
           "target": "12-pasillo-4"
         }
@@ -704,26 +770,36 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -0.23732171769521138,
-        "pitch": 0.5481622340300163,
-        "fov": 1.3487598040662003
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -2.714835581678191,
-          "pitch": 0.6509154808301361,
+          "yaw": -0.21573098851923334,
+          "pitch": 0.5164827800300351,
           "rotation": 0,
-          "target": "12-pasillo-4"
+          "target": "17-pasillo-7"
         },
         {
-          "yaw": 0.14192092649233246,
-          "pitch": 0.7896536405723396,
+          "yaw": 0.24657977222658012,
+          "pitch": 0.4204658921077886,
           "rotation": 0,
-          "target": "16-pasillo-6"
+          "target": "22-pasillo-8"
+        },
+        {
+          "yaw": -2.9947259611056563,
+          "pitch": 0.3225588169090976,
+          "rotation": 0,
+          "target": "6-pasillo-2"
         }
       ],
       "infoHotspots": []
@@ -748,38 +824,42 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 1.1320031575792235,
-        "pitch": 0.3651944228539321,
-        "fov": 1.3487598040662003
+        "yaw": -2.5123468509579006,
+        "pitch": 0.48777499166347127,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 0.8741487412352136,
-          "pitch": 0.8365228227279147,
+          "yaw": -1.7497720561941712,
+          "pitch": 0.4229266088118724,
           "rotation": 0,
-          "target": "17-pasillo-7"
+          "target": "11-pasillo-3"
         },
         {
-          "yaw": 1.6751235852866388,
-          "pitch": 0.5730248250774572,
+          "yaw": 1.6748255310278148,
+          "pitch": 0.5613164125044143,
           "rotation": 0,
           "target": "22-pasillo-8"
         },
         {
-          "yaw": -1.85416236335357,
-          "pitch": 0.7368129346117591,
-          "rotation": 0,
-          "target": "15-pasillo-5"
+          "yaw": 2.6385919481992115,
+          "pitch": 0.6841529201565564,
+          "rotation": 6.283185307179586,
+          "target": "18-pasillo-cocina-1"
         },
         {
-          "yaw": 2.60461201443567,
-          "pitch": 0.7049218671922972,
+          "yaw": 0.8379655039973457,
+          "pitch": 0.6633631408287002,
           "rotation": 0,
-          "target": "18-pasillo-cocina-1"
+          "target": "17-pasillo-7"
         }
       ],
       "infoHotspots": []
@@ -804,31 +884,35 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.019870114478948153,
-        "pitch": 0.4790684381826864,
-        "fov": 1.3487598040662003
+        "yaw": 0.26173574324713833,
+        "pitch": 0.4410617323553936,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -2.0016249637615147,
-          "pitch": 0.7708732145972625,
-          "rotation": 0,
+          "yaw": -1.730568828079761,
+          "pitch": 0.49025197956484057,
+          "rotation": 0.7853981633974483,
           "target": "16-pasillo-6"
         },
         {
-          "yaw": -2.6495769001151306,
-          "pitch": 0.47436145545735897,
+          "yaw": -2.635921715556915,
+          "pitch": 0.44950185209224713,
           "rotation": 0,
           "target": "18-pasillo-cocina-1"
         },
         {
-          "yaw": 3.068666276333068,
-          "pitch": 0.7182021067717983,
-          "rotation": 0,
+          "yaw": 2.9976375392505688,
+          "pitch": 0.6663099215327257,
+          "rotation": 10.995574287564278,
           "target": "22-pasillo-8"
         }
       ],
@@ -854,32 +938,36 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 1.4678094992823478,
-        "pitch": 0.22031812186938993,
-        "fov": 1.3487598040662003
+        "yaw": 1.3903281792387556,
+        "pitch": 0.32224268639614095,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -1.4230264683983727,
-          "pitch": 0.6435080520216712,
+          "yaw": 1.550203331245803,
+          "pitch": 0.359031120187403,
           "rotation": 0,
-          "target": "17-pasillo-7"
+          "target": "20-cocina-1"
         },
         {
-          "yaw": -2.092340387922391,
-          "pitch": 0.7650400507807404,
-          "rotation": 0,
-          "target": "16-pasillo-6"
+          "yaw": -0.888631148643583,
+          "pitch": 0.4061989942779629,
+          "rotation": 1.5707963267948966,
+          "target": "22-pasillo-8"
         },
         {
-          "yaw": 1.7212723372861332,
-          "pitch": 0.7924584257576477,
-          "rotation": 0,
-          "target": "19-pasillo-cocina-2"
+          "yaw": -2.1208566271118166,
+          "pitch": 0.5293381075635217,
+          "rotation": 4.71238898038469,
+          "target": "15-pasillo-5"
         }
       ],
       "infoHotspots": []
@@ -904,28 +992,19 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": 1.8401964112724967,
-        "pitch": 0.4749537301127571,
-        "fov": 1.3487598040662003
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.4315204329959101,
-          "pitch": 0.8401557160256132,
-          "rotation": 0,
-          "target": "18-pasillo-cocina-1"
         },
         {
-          "yaw": 1.6928656075479527,
-          "pitch": 0.6669105857050752,
-          "rotation": 0,
-          "target": "20-cocina-1"
+          "tileSize": 512,
+          "size": 4096
         }
       ],
+      "faceSize": 3040,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
       "infoHotspots": []
     },
     {
@@ -948,26 +1027,30 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -2.7803622900673854,
-        "pitch": 0.43079623935176414,
-        "fov": 1.3487598040662003
+        "yaw": -2.916985553327537,
+        "pitch": 0.44447900445699773,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 0.4034803842285939,
-          "pitch": 0.6904524764405231,
-          "rotation": 0,
-          "target": "19-pasillo-cocina-2"
-        },
-        {
-          "yaw": -2.757056007589112,
-          "pitch": 0.7285360040288893,
+          "yaw": -2.784802639040377,
+          "pitch": 0.4433003137947562,
           "rotation": 0,
           "target": "21-cocina-2"
+        },
+        {
+          "yaw": 0.4530919036901011,
+          "pitch": 0.18427502308581722,
+          "rotation": 0,
+          "target": "16-pasillo-6"
         }
       ],
       "infoHotspots": []
@@ -992,20 +1075,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -2.888905293355034,
-        "pitch": 0.5330835637670575,
-        "fov": 1.3487598040662003
+        "yaw": 1.5980403731065405,
+        "pitch": 0.3305351261376863,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 0.8583912705577301,
-          "pitch": 0.38940431671554343,
+          "yaw": 0.87101713341929,
+          "pitch": 0.19510627485507825,
           "rotation": 0,
-          "target": "20-cocina-1"
+          "target": "16-pasillo-6"
         }
       ],
       "infoHotspots": []
@@ -1030,36 +1117,46 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -1.4804588292033962,
-        "pitch": 0.38725376365364284,
-        "fov": 1.3487598040662003
+        "yaw": -1.5372581299647443,
+        "pitch": 0.5410796555281898,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.3148862644690098,
-          "pitch": 0.6346524569493877,
-          "rotation": 0,
-          "target": "16-pasillo-6"
-        },
-        {
-          "yaw": 2.087368248682571,
-          "pitch": 0.6953797276263387,
-          "rotation": 0,
-          "target": "17-pasillo-7"
-        },
-        {
-          "yaw": -0.5070461349726454,
-          "pitch": 0.7410759292667706,
+          "yaw": -0.6564268961657653,
+          "pitch": 0.4717624058472154,
           "rotation": 0,
           "target": "23-oficina-c-1"
         },
         {
-          "yaw": -2.0871536958998167,
-          "pitch": 0.6723675147434083,
+          "yaw": 0.6322743737293663,
+          "pitch": 0.6347462437950995,
+          "rotation": 0,
+          "target": "18-pasillo-cocina-1"
+        },
+        {
+          "yaw": 2.0728255379412293,
+          "pitch": 0.7188183210859762,
+          "rotation": 0,
+          "target": "17-pasillo-7"
+        },
+        {
+          "yaw": 1.2294656479974684,
+          "pitch": 0.49018626661083786,
+          "rotation": 0,
+          "target": "16-pasillo-6"
+        },
+        {
+          "yaw": -2.0028295644458503,
+          "pitch": 0.44909751345269555,
           "rotation": 0,
           "target": "25-pasillo-9"
         }
@@ -1086,26 +1183,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.4987237164432976,
-        "pitch": 0.2892095584082597,
-        "fov": 1.3487598040662003
+        "yaw": 0.3260342238029086,
+        "pitch": 0.3169090160938204,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 0.6423484974958313,
-          "pitch": 0.6078930821088733,
+          "yaw": 0.6696819241373593,
+          "pitch": 0.37777666997196313,
           "rotation": 0,
           "target": "24-oficina-c-2"
-        },
-        {
-          "yaw": -2.5948827640071137,
-          "pitch": 0.9537581809709561,
-          "rotation": 0,
-          "target": "22-pasillo-8"
         }
       ],
       "infoHotspots": []
@@ -1130,26 +1225,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -0.4184076469606701,
-        "pitch": 0.378366462850277,
-        "fov": 1.3487598040662003
+        "yaw": -0.47639707612505333,
+        "pitch": 0.580440136338197,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -1.0986483798932305,
-          "pitch": 0.6016143505629685,
+          "yaw": -1.0618070519619547,
+          "pitch": 0.3466239816869656,
           "rotation": 0,
           "target": "22-pasillo-8"
-        },
-        {
-          "yaw": -1.228782514381754,
-          "pitch": 0.9079048404466121,
-          "rotation": 0,
-          "target": "23-oficina-c-1"
         }
       ],
       "infoHotspots": []
@@ -1174,26 +1267,42 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 1.1573358340747024,
-        "pitch": 0.3129831429934242,
-        "fov": 1.3487598040662003
+        "yaw": 0.39919006712565164,
+        "pitch": 0.5947792105334724,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 2.938039887758782,
-          "pitch": 0.6848324883990706,
+          "yaw": 2.6830845196793582,
+          "pitch": 0.1093460222136553,
           "rotation": 0,
-          "target": "22-pasillo-8"
+          "target": "23-oficina-c-1"
         },
         {
-          "yaw": 1.0591203062148615,
-          "pitch": 0.7409467266251326,
+          "yaw": 3.018938623090076,
+          "pitch": 0.2400623303294278,
           "rotation": 0,
-          "target": "26-pasillo-10"
+          "target": "15-pasillo-5"
+        },
+        {
+          "yaw": 1.237351416766458,
+          "pitch": 0.34830481903891375,
+          "rotation": 0,
+          "target": "28-oficina-e-1"
+        },
+        {
+          "yaw": -0.017558856620834007,
+          "pitch": 0.4275756136903066,
+          "rotation": 0,
+          "target": "27-oficina-d-1"
         }
       ],
       "infoHotspots": []
@@ -1218,32 +1327,36 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -0.1463292186080949,
-        "pitch": 0.28286490335277037,
-        "fov": 1.3487598040662003
+        "yaw": -1.7017925647462757,
+        "pitch": 0.5873286806494242,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -2.6891289802369833,
-          "pitch": 0.8510613031730738,
-          "rotation": 0,
-          "target": "25-pasillo-9"
-        },
-        {
-          "yaw": -0.11219731128299415,
-          "pitch": 0.7256580494213427,
+          "yaw": -0.9979439339204959,
+          "pitch": 0.6238755644663598,
           "rotation": 0,
           "target": "27-oficina-d-1"
         },
         {
-          "yaw": 0.8867301535038017,
-          "pitch": 0.610612193722627,
+          "yaw": 0.8965431561302477,
+          "pitch": 0.5808170934876031,
           "rotation": 0,
-          "target": "29-oficina-e-1"
+          "target": "28-oficina-e-1"
+        },
+        {
+          "yaw": -2.775685169678372,
+          "pitch": 0.3420218850905794,
+          "rotation": 0,
+          "target": "22-pasillo-8"
         }
       ],
       "infoHotspots": []
@@ -1268,70 +1381,36 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -1.468280220773794,
-        "pitch": 0.3264260875637781,
-        "fov": 1.3487598040662003
+        "yaw": -0.41285056611958737,
+        "pitch": 0.5910031330594663,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -1.6982268060440457,
-          "pitch": 0.7069495541208202,
+          "yaw": -2.8792715446969357,
+          "pitch": 0.26815408827291876,
           "rotation": 0,
-          "target": "28-oficina-d-2"
+          "target": "22-pasillo-8"
         },
         {
-          "yaw": 2.6702244385909726,
-          "pitch": 0.9462222994798175,
+          "yaw": 2.6316951945871043,
+          "pitch": 0.07827940790809862,
           "rotation": 0,
-          "target": "26-pasillo-10"
+          "target": "28-oficina-e-1"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "28-oficina-d-2",
-      "name": "Oficina D 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": -0.5195330566833061,
-        "pitch": 0.34079908466891595,
-        "fov": 1.3487598040662003
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.443542984378384,
-          "pitch": 0.5188499872430299,
-          "rotation": 0,
-          "target": "27-oficina-d-1"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "29-oficina-e-1",
+      "id": "28-oficina-e-1",
       "name": "Oficina E 1",
       "levels": [
         {
@@ -1350,30 +1429,40 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 0.6645784453584369,
-        "pitch": 0.5242707994078177,
-        "fov": 1.3487598040662003
+        "yaw": 0.9818686829085284,
+        "pitch": 0.6430377230856568,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.214864888907897,
-          "pitch": 0.6927579972660318,
+          "yaw": 1.463035480178764,
+          "pitch": 0.711136138676359,
           "rotation": 0,
-          "target": "30-oficina-e-2"
+          "target": "29-oficina-e-2"
         },
         {
-          "yaw": -0.2217446939732337,
-          "pitch": 0.716696774470055,
+          "yaw": 0.7760699954107313,
+          "pitch": 0.4291320138930992,
           "rotation": 0,
-          "target": "32-oficina-e-4"
+          "target": "29-oficina-e-2"
         },
         {
-          "yaw": -1.596360533575126,
-          "pitch": 0.6591245197613027,
+          "yaw": -0.1131934553538052,
+          "pitch": 0.37441648485938117,
+          "rotation": 0,
+          "target": "32-oficina-e-5"
+        },
+        {
+          "yaw": -1.5399880125774033,
+          "pitch": 0.555920266364188,
           "rotation": 0,
           "target": "26-pasillo-10"
         }
@@ -1381,7 +1470,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "30-oficina-e-2",
+      "id": "29-oficina-e-2",
       "name": "Oficina E 2",
       "levels": [
         {
@@ -1400,38 +1489,42 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -0.21749487601776174,
-        "pitch": 0.14986220045179977,
-        "fov": 1.3487598040662003
+        "yaw": -0.4808701079394524,
+        "pitch": 0.5186304865685614,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -1.7513981700798595,
-          "pitch": 0.7116142571654009,
+          "yaw": 0.1721597197332887,
+          "pitch": 0.5201914467787585,
           "rotation": 0,
-          "target": "29-oficina-e-1"
+          "target": "30-oficina-e-3"
         },
         {
-          "yaw": -0.7834687445937991,
-          "pitch": 0.5966567840334385,
+          "yaw": -0.5930044190094073,
+          "pitch": 0.3992173920315345,
           "rotation": 0,
-          "target": "32-oficina-e-4"
+          "target": "32-oficina-e-5"
         },
         {
-          "yaw": 0.2135367571326423,
-          "pitch": 0.554331196810331,
+          "yaw": -1.572149103646753,
+          "pitch": 0.3237089029150084,
           "rotation": 0,
-          "target": "31-oficina-e-3"
+          "target": "26-pasillo-10"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "31-oficina-e-3",
+      "id": "30-oficina-e-3",
       "name": "Oficina E 3",
       "levels": [
         {
@@ -1450,38 +1543,42 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -0.4160084742487147,
-        "pitch": 0.4289805487932785,
-        "fov": 1.3487598040662003
+        "yaw": -0.4145508995222791,
+        "pitch": 0.4561620238927002,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -1.4875080180287519,
-          "pitch": 0.580039711908455,
+          "yaw": -0.3713729202092093,
+          "pitch": 0.39373525009975197,
           "rotation": 0,
-          "target": "29-oficina-e-1"
+          "target": "32-oficina-e-5"
         },
         {
-          "yaw": -2.3390412171312143,
-          "pitch": 0.8292525405768316,
+          "yaw": -1.3808362455731817,
+          "pitch": 0.28420575515083435,
           "rotation": 0,
-          "target": "30-oficina-e-2"
+          "target": "26-pasillo-10"
         },
         {
-          "yaw": -0.5693889043059261,
-          "pitch": 0.5663936880646538,
+          "yaw": -2.3119704733985404,
+          "pitch": 0.7347288985428797,
           "rotation": 0,
-          "target": "32-oficina-e-4"
+          "target": "29-oficina-e-2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "32-oficina-e-4",
+      "id": "31-oficina-e-4",
       "name": "Oficina E 4",
       "levels": [
         {
@@ -1500,38 +1597,48 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": 3.0457393683474514,
-        "pitch": 0.5021275297102399,
-        "fov": 1.3487598040662003
+        "yaw": -1.048956314304787,
+        "pitch": 0.37674331918380943,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -1.1684040438093408,
-          "pitch": 0.8375907921039367,
+          "yaw": -2.004299452572141,
+          "pitch": 0.5853232215221773,
           "rotation": 0,
-          "target": "29-oficina-e-1"
+          "target": "28-oficina-e-1"
         },
         {
-          "yaw": -2.249618290501525,
-          "pitch": 0.6337243850444363,
+          "yaw": -0.7714488412598115,
+          "pitch": 0.2670511915625262,
           "rotation": 0,
-          "target": "30-oficina-e-2"
+          "target": "26-pasillo-10"
         },
         {
-          "yaw": 1.9914848817231317,
-          "pitch": 0.6586137028204995,
+          "yaw": -3.0720546000112456,
+          "pitch": 0.36127543443138066,
           "rotation": 0,
-          "target": "33-oficina-e-5"
+          "target": "30-oficina-e-3"
+        },
+        {
+          "yaw": 2.0242832395557286,
+          "pitch": 0.4231907866212925,
+          "rotation": 0,
+          "target": "32-oficina-e-5"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "33-oficina-e-5",
+      "id": "32-oficina-e-5",
       "name": "Oficina E 5",
       "levels": [
         {
@@ -1550,30 +1657,46 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1520,
+      "faceSize": 3040,
       "initialViewParameters": {
-        "yaw": -2.4939505462841858,
-        "pitch": 0.5121914527633109,
-        "fov": 1.3487598040662003
+        "yaw": -2.4166797855317395,
+        "pitch": 0.547485674670412,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": -1.4387635216745025,
-          "pitch": 0.7459009132565484,
+          "yaw": -1.971979276930238,
+          "pitch": 0.3959283834089202,
           "rotation": 0,
-          "target": "32-oficina-e-4"
+          "target": "28-oficina-e-1"
+        },
+        {
+          "yaw": -1.3979614349059517,
+          "pitch": 0.7588470357397377,
+          "rotation": 0,
+          "target": "31-oficina-e-4"
+        },
+        {
+          "yaw": -2.9180546198443142,
+          "pitch": 0.3332631772339312,
+          "rotation": 0,
+          "target": "30-oficina-e-3"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Tour Virtual Muebles Abara",
+  "name": "tour-virtual-muebles-oficina",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
+    "fullscreenButton": false,
     "viewControlButtons": false
   }
 };
